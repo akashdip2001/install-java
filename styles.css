@@ -1,6 +1,6 @@
 body {
     background: rgb(98, 36, 241);
-    background: linear-gradient(151deg, #6224f1 19%, #67e1d6 100%);
+    background: linear-gradient(151deg, #19034b 19%, #e167b0 100%);
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 25px;
@@ -73,8 +73,8 @@ a {
 }
 
 a.links:hover {
-    color: #000;
-    background: rgb(244, 239, 156);
+    color: rgb(232, 159, 242);
+    background: rgb(38, 3, 62);
 }
 
 .fa_custom {
